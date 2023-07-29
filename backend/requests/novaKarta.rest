@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/karte
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RVc2VyIiwiaWQiOiI2MmQ5YTY3YTM5ZTEzNmE2NGYxYmIzYTciLCJpYXQiOjE2NTg1MDY2NTV9.kq3HN2HIKuw5fB3l3TvqQHLgFpnF_bFIDPsl3HDpIKk
+
+
+{
+  "film": "Pulp fiction",
+  "vrijemePrikazivanja":"19:50",
+  "datum":"{{$datetime rfc1123}}",
+  "brSjedala":"C2",
+  "korisnikId": "62efd1411bc461f4e533fa2e"
+}

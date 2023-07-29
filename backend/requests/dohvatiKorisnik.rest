@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/korisnici
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RVc2VyIiwiaWQiOiI2MmQ5YTY3YTM5ZTEzNmE2NGYxYmIzYTciLCJpYXQiOjE2NTg1MDY2NTV9.kq3HN2HIKuw5fB3l3TvqQHLgFpnF_bFIDPsl3HDpIKk
